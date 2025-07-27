@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/InfiniteCodeMonkeys/weather-cli/utils"
+	"github.com/InfiniteCodeMonkeys/weather/utils"
 )
 
 type WeatherResponse struct {

@@ -6,7 +6,7 @@ import (
 	"io"
 	"net/url"
 
-	"github.com/InfiniteCodeMonkeys/weather-cli/utils"
+	"github.com/InfiniteCodeMonkeys/weather/utils"
 )
 
 type Location struct {

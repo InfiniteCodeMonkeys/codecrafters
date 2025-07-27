@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/InfiniteCodeMonkeys/weather-cli/services"
+	"github.com/InfiniteCodeMonkeys/weather/services"
 )
 
 func main() {
